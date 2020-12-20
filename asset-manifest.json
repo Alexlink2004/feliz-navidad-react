@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/feliz-navidad-react/static/css/main.0cbb4828.chunk.css",
+    "main.js": "/feliz-navidad-react/static/js/main.9c2d8bbe.chunk.js",
+    "main.js.map": "/feliz-navidad-react/static/js/main.9c2d8bbe.chunk.js.map",
+    "runtime-main.js": "/feliz-navidad-react/static/js/runtime-main.72e2b975.js",
+    "runtime-main.js.map": "/feliz-navidad-react/static/js/runtime-main.72e2b975.js.map",
+    "static/css/2.038f572a.chunk.css": "/feliz-navidad-react/static/css/2.038f572a.chunk.css",
+    "static/js/2.d0b7c35b.chunk.js": "/feliz-navidad-react/static/js/2.d0b7c35b.chunk.js",
+    "static/js/2.d0b7c35b.chunk.js.map": "/feliz-navidad-react/static/js/2.d0b7c35b.chunk.js.map",
+    "static/js/3.579b2058.chunk.js": "/feliz-navidad-react/static/js/3.579b2058.chunk.js",
+    "static/js/3.579b2058.chunk.js.map": "/feliz-navidad-react/static/js/3.579b2058.chunk.js.map",
+    "index.html": "/feliz-navidad-react/index.html",
+    "static/css/2.038f572a.chunk.css.map": "/feliz-navidad-react/static/css/2.038f572a.chunk.css.map",
+    "static/css/main.0cbb4828.chunk.css.map": "/feliz-navidad-react/static/css/main.0cbb4828.chunk.css.map",
+    "static/js/2.d0b7c35b.chunk.js.LICENSE.txt": "/feliz-navidad-react/static/js/2.d0b7c35b.chunk.js.LICENSE.txt",
+    "static/media/img1.f49d6443.jpg": "/feliz-navidad-react/static/media/img1.f49d6443.jpg",
+    "static/media/img2.5849a7ec.jpg": "/feliz-navidad-react/static/media/img2.5849a7ec.jpg",
+    "static/media/osito.952ae1d6.JPG": "/feliz-navidad-react/static/media/osito.952ae1d6.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e2b975.js",
+    "static/css/2.038f572a.chunk.css",
+    "static/js/2.d0b7c35b.chunk.js",
+    "static/css/main.0cbb4828.chunk.css",
+    "static/js/main.9c2d8bbe.chunk.js"
+  ]
+}
