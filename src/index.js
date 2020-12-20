@@ -1,12 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+
+
 import HomeScreen from './Pages/HomeScreen';
+import Navbar from './Components/Navbar'
+
+
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <div>
+      <Navbar/>
     <HomeScreen />
+
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
